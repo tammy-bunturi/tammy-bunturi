@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Tammy
 
-<!--
-**tammy-bunturi/tammy-bunturi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔍 QA Engineer | Manual Tester | Automation Learner
 
-Here are some ideas to get you started:
+I'm a QA professional with hands-on experience in **manual testing** — writing test cases, finding bugs, and improving software quality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now I'm expanding my skills into **automation testing** using **Java + Selenium WebDriver**, building real test frameworks from scratch.
+
+---
+
+## 🛠️ What I Work With
+
+- ✅ Manual Testing — test cases, bug reports, regression testing
+- 🤖 Automation — Java, Selenium WebDriver (currently practicing)
+- 🧪 Tools — Jira, TestRail, Chrome DevTools, Postman
+- 📁 Version Control — Git & GitHub
+
+---
+
+## 📂 My Projects
+
+🔗 Check my repositories below — I upload real automation test scripts and practice projects.
+
+---
+
+## 📫 Let's Connect
+
+Feel free to explore my work. Always open to feedback and collaboration!
