@@ -1,4 +1,4 @@
-# Hi, I'm Tammy
+# Hi, I'm Tamar
 
 ## 🔍 QA Engineer | Manual Tester | Automation Learner
 
